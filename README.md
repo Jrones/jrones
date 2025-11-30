@@ -1,4 +1,6 @@
-# you are my special
+# hi hello
+
+> i like to spend hours on optimisation, refactoring and performance changes even if they are negligible
 
 skills (programming wise)
 - python.py
@@ -16,4 +18,3 @@ some projects
 - llm: finetuning
 - discord bots
 
-> i like to spend hours on optimisation, refactoring and performance changes even if they are negligible
