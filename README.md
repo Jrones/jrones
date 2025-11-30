@@ -15,3 +15,5 @@ some projects
 - terrain generation
 - llm: finetuning
 - discord bots
+
+> i like to spend hours on optimisation, refactoring and performance changes even if they are negligible
